@@ -1,6 +1,5 @@
 # JGB_distributions
 
-JGB_distributions is a Python library for dealing with Gaussian (normal) and Binomial Probability distributions.
 
 ## Description
 
